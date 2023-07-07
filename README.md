@@ -1,13 +1,20 @@
 <p align="center"> 
-<img src="https://img.freepik.com/premium-vector/words-data-analysis-surrounded-by-icons_1010-861.jpg?w=2000"/>
+<img src="https://github.com/vaneevruslan/vaneevruslan/blob/main/banner.jpg?raw=true"/>
 </p>
 
 <h3 align="left">Привет 👋, меня зовут Руслан</h3>
 Текст
+
 <br>
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+### Ссылки на репозитории:
+ 
+ [1. Проекты курса Яндекс.Практикум «Аналитик данных»](https://github.com/vaneevruslan/DA_Projects_Yandex#readme)
+
+
+### 🧰 Инструменты и навыки:
 <p align="left"> 
+  <br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
@@ -21,16 +28,13 @@
 </p>
 
 
-<h3 align="left">📱 Контакная информация:</h3>
+### 📱 Контакная информация:
 <p align="left">
   <a href="https://t.me/vaneevr">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
-<h3 align="left">Ссылки на репозитории:</h3>
- 
- [1. Проекты курса Яндекс.Практикум «Аналитик данных»](https://github.com/vaneevruslan/DA_Projects_Yandex#readme)
 
 <!--
 **vaneevruslan/vaneevruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
