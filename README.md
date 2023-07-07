@@ -6,11 +6,13 @@
 Текст
 
 <br>
+<hr>
 
 ### Ссылки на репозитории:
  
  [1. Проекты курса Яндекс.Практикум «Аналитик данных»](https://github.com/vaneevruslan/DA_Projects_Yandex#readme)
 
+<hr>
 
 ### 🧰 Инструменты и навыки:
 <p align="left"> 
@@ -27,6 +29,7 @@
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
 </p>
 
+<hr>
 
 ### 📱 Контакная информация:
 <p align="left">
